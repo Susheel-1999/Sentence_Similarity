@@ -1,5 +1,10 @@
 # Sentence Similarity
-Package to calculate the similarity score between two sentences
+Package to calculate the similarity score between two sentences.
+## Installation
+>sentence-similarity prefers python 3.6 or higher.
+```python
+pip install sentence-similarity
+```
 ## Examples
 ### Using Transformers
 ```python
