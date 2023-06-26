@@ -33,7 +33,7 @@ Available metric are euclidean, manhattan, minkowski, cosine score.
 ```python
 from sentence_similarity import sentence_similarity
 sentence_a = "paris is a beautiful city"
-sentence_b = "paris is a grogeous city"
+sentence_b = "paris is a gorgeous city"
 ```
 #### Supported Models
 You can access all the pretrained models of `Sentence-Transformers`
