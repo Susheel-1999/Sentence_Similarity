@@ -10,7 +10,7 @@ pip install sentence-similarity
 ```python
 from sentence_similarity import sentence_similarity
 sentence_a = "paris is a beautiful city"
-sentence_b = "paris is a grogeous city"
+sentence_b = "paris is a gorgeous city"
 ```
 #### Supported Models
 You can access some of the official model through the `sentence_similarity` class. However, you can directly type the HuggingFace's model name such as `bert-base-uncased` or `distilbert-base-uncased` when instantiating a `sentence_similarity`.
